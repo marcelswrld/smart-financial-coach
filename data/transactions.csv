@@ -1,0 +1,32 @@
+date,category,amount,merchant
+2025-06-01,Rent,1500,ApartmentCo
+2025-06-02,Groceries,120,Trader Joe's
+2025-06-05,Entertainment,60,AMC Theatres
+2025-06-07,Utilities,95,LADWP
+2025-06-10,Shopping,1800,Gucci
+2025-06-12,Transportation,40,Uber
+2025-06-15,Groceries,95,Ralphs
+2025-06-20,Subscription,15,Spotify
+2025-06-22,Dining Out,250,Steakhouse
+2025-06-25,Groceries,110,Trader Joe's
+2025-06-28,Coffee,10,Blue Bottle
+2025-07-01,Rent,1500,ApartmentCo
+2025-07-03,Groceries,130,Ralphs
+2025-07-05,Electronics,2200,Apple Store
+2025-07-08,Entertainment,70,Concert Hall
+2025-07-10,Utilities,105,LADWP
+2025-07-12,Dining Out,280,Five Star Sushi
+2025-07-18,Transportation,35,Metro
+2025-07-21,Groceries,100,Whole Foods
+2025-07-25,Subscription,15,Hulu
+2025-07-28,Coffee,13,Philz
+2025-08-01,Rent,1500,ApartmentCo
+2025-08-03,Groceries,125,Trader Joe's
+2025-08-06,Dining Out,400,Fancy Bistro
+2025-08-09,Electronics,2600,BestBuy
+2025-08-12,Healthcare,45,CVS
+2025-08-15,Subscription,20,Spotify
+2025-08-20,Groceries,118,Ralphs
+2025-08-25,Entertainment,85,Netflix
+2025-08-28,Coffee,12,Blue Bottle
+2025-08-30,Other,500,Casino
