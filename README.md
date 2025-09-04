@@ -5,6 +5,10 @@ This MVP was built for the Palo Alto Networks Case Challenge to showcase **AI-re
 
 ---
 
+## 🎥 Demo Video
+[![Demo Video](https://img.youtube.com/vi/TKgCQ5RXO0k/0.jpg)](https://youtu.be/TKgCQ5RXO0k)  
+Click the thumbnail above to watch the full demo on YouTube.  
+
 ## 🚀 Features
 
 - **CSV Upload & Parsing**
@@ -112,3 +116,4 @@ GitHub: @marcelswrld
 ⚠️ Disclaimer
 This is a demo project created for the Palo Alto Networks Case Challenge.
 The financial insights and credit estimations are not official financial advice and should not be relied upon for personal financial decisions.
+
